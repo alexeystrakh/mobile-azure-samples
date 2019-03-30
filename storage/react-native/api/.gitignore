@@ -1,0 +1,11 @@
+# node.js
+#
+
+!node_modules/
+
+node_modules/*
+!node_modules/react-native-hue-player/
+!node_modules/react-native-music-control/
+
+npm-debug.log
+yarn-error.log
