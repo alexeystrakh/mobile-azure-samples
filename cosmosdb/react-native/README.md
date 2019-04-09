@@ -80,10 +80,10 @@ Once you have you Azure account set, please [create a new Cosmos DB instance](ht
 
 ## Screenshots
 
-<img src="cosmosdb/react-native/screenshots/cosmos-db-rn-ios-1.png" alt="Cosmos DB React-Native - iOS List" height="350" style="display:inline-block;" />
+<img src="screenshots/cosmos-db-rn-ios-1.png" alt="Cosmos DB React-Native - iOS List" height="350" style="display:inline-block;" />
 
-<img src="cosmosdb/react-native/screenshots/cosmos-db-rn-ios-2.png" alt="Cosmos DB React-Native - iOS Add Item" height="350" style="display:inline-block;" />
+<img src="screenshots/cosmos-db-rn-ios-2.png" alt="Cosmos DB React-Native - iOS Add Item" height="350" style="display:inline-block;" />
 
-<img src="cosmosdb/react-native/screenshots/cosmos-db-rn-android-1.png" alt="Cosmos DB React-Native - Android List" height="350" style="display:inline-block;" />
+<img src="screenshots/cosmos-db-rn-android-1.png" alt="Cosmos DB React-Native - Android List" height="350" style="display:inline-block;" />
 
-<img src="cosmosdb/react-native/screenshots/cosmos-db-rn-android-2.png" alt="Cosmos DB React-Native - Android Add Item" height="350" style="display:inline-block;" />
+<img src="screenshots/cosmos-db-rn-android-2.png" alt="Cosmos DB React-Native - Android Add Item" height="350" style="display:inline-block;" />
