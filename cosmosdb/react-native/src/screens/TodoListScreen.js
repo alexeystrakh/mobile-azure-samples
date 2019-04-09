@@ -6,7 +6,7 @@ import Loader from "../components/Loader";
 import axios from "axios";
 import { getItem, setItem } from "../util/storage";
 
-axios.defaults.baseURL = "http://5.9.144.226:4002";
+axios.defaults.baseURL = "http://localhost:3036";
 
 export default class TodoListScreen extends Component {
   constructor(props) {

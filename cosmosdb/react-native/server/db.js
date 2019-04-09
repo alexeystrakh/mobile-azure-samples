@@ -1,7 +1,6 @@
 const CosmosClient = require("@azure/cosmos").CosmosClient;
-const endpoint = "https://sam-excel.documents.azure.com/";
-const masterKey =
-  "tPSbK05zlowZ5UDnqI1MAA4dBzl8E2uOEWi23X7lNXl2CgD1nfygdVAGVjRn7BlUTouLFehzHjRJBxSSvsVMVQ==";
+const endpoint = "https://<your_cosmosdb_name>.documents.azure.com/";
+const masterKey = "<your_cosmosdb_master_key>";
 const conn = new CosmosClient({
   endpoint: endpoint,
   auth: { masterKey: masterKey }
