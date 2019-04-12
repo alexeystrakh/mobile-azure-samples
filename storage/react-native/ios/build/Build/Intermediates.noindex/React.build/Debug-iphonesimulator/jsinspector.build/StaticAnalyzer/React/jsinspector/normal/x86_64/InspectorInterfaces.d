@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/BlessedEdge/Documents/BlessedEdge/Apps/react-native-azure-storage/PhotoApp/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
-  /Users/BlessedEdge/Documents/BlessedEdge/Apps/react-native-azure-storage/PhotoApp/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+  /Users/astrakh/Desktop/Sources/mobile-azure-samples/storage/react-native/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
+  /Users/astrakh/Desktop/Sources/mobile-azure-samples/storage/react-native/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h

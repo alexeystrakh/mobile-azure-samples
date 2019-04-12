@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/BlessedEdge/Documents/BlessedEdge/Apps/react-native-azure-storage/PhotoApp/node_modules/react-native-image-resizer/ios/RCTImageResizer/ImageHelpers.m \
-  /Users/BlessedEdge/Documents/BlessedEdge/Apps/react-native-azure-storage/PhotoApp/node_modules/react-native-image-resizer/ios/RCTImageResizer/ImageHelpers.h
+  /Users/astrakh/Desktop/Sources/mobile-azure-samples/storage/react-native/node_modules/react-native-image-resizer/ios/RCTImageResizer/ImageHelpers.m \
+  /Users/astrakh/Desktop/Sources/mobile-azure-samples/storage/react-native/node_modules/react-native-image-resizer/ios/RCTImageResizer/ImageHelpers.h

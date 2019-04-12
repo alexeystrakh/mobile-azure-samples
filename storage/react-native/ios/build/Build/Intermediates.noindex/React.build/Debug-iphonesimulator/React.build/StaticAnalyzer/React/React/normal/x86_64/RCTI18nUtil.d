@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/BlessedEdge/Documents/BlessedEdge/Apps/react-native-azure-storage/PhotoApp/node_modules/react-native/React/Modules/RCTI18nUtil.m \
-  /Users/BlessedEdge/Documents/BlessedEdge/Apps/react-native-azure-storage/PhotoApp/node_modules/react-native/React/Modules/RCTI18nUtil.h
+  /Users/astrakh/Desktop/Sources/mobile-azure-samples/storage/react-native/node_modules/react-native/React/Modules/RCTI18nUtil.m \
+  /Users/astrakh/Desktop/Sources/mobile-azure-samples/storage/react-native/node_modules/react-native/React/Modules/RCTI18nUtil.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/BlessedEdge/Documents/BlessedEdge/Apps/react-native-azure-storage/PhotoApp/ios/imageApp/main.m \
-  /Users/BlessedEdge/Documents/BlessedEdge/Apps/react-native-azure-storage/PhotoApp/ios/imageApp/AppDelegate.h
+  /Users/astrakh/Desktop/Sources/mobile-azure-samples/storage/react-native/ios/imageApp/main.m \
+  /Users/astrakh/Desktop/Sources/mobile-azure-samples/storage/react-native/ios/imageApp/AppDelegate.h

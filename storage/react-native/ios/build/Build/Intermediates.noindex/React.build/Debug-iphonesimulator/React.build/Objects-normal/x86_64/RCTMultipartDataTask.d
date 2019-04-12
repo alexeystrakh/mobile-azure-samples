@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/BlessedEdge/Documents/BlessedEdge/Apps/react-native-azure-storage/PhotoApp/node_modules/react-native/React/Base/RCTMultipartDataTask.m \
-  /Users/BlessedEdge/Documents/BlessedEdge/Apps/react-native-azure-storage/PhotoApp/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
-  /Users/BlessedEdge/Documents/BlessedEdge/Apps/react-native-azure-storage/PhotoApp/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Users/astrakh/Desktop/Sources/mobile-azure-samples/storage/react-native/node_modules/react-native/React/Base/RCTMultipartDataTask.m \
+  /Users/astrakh/Desktop/Sources/mobile-azure-samples/storage/react-native/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/astrakh/Desktop/Sources/mobile-azure-samples/storage/react-native/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
