@@ -34,9 +34,9 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 
-const STORAGE_ACCOUNT_NAME = "ACCOUNT_NAME_GOES_HERE";
-const CONTAINER_NAME = "CONTAINER_NAME_GOES_HERE";
-const ACCOUNT_ACCESS_KEY = "ACCESS_KEY_GOES_HERE";
+const STORAGE_ACCOUNT_NAME = "<YOUR_STORAGE_ACCOUNT_NAME>";
+const CONTAINER_NAME = "<YOUR_CONTAINER_NAME>";
+const ACCOUNT_ACCESS_KEY = "<YOUR_ACCOUNT_ACCESS_KEY>";
 
 const ONE_MINUTE = 60 * 1000;
 
