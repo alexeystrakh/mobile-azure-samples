@@ -5558,6 +5558,13 @@ react-mixin@^3.0.5:
     object-assign "^4.0.1"
     smart-mixin "^2.0.0"
 
+react-native-camera@^1.11.2:
+  version "1.13.1"
+  resolved "https://registry.yarnpkg.com/react-native-camera/-/react-native-camera-1.13.1.tgz#19277ccae0a49dbf1b96049da5b95c847ea7aff2"
+  integrity sha512-wYjMi06ygYIiHRM4dSCH914xFUay7Wplx0bAej4iBkZeh54M4AxJDcF4vVZ5vdkpuAg8zvof3l+L1VhcKziMgw==
+  dependencies:
+    prop-types "^15.6.2"
+
 react-native-drawer@2.5.1:
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/react-native-drawer/-/react-native-drawer-2.5.1.tgz#08b9314184f48c724f1b467f8859797369798654"
@@ -5604,10 +5611,10 @@ react-native-image-picker@^0.26.7:
   resolved "https://registry.yarnpkg.com/react-native-image-picker/-/react-native-image-picker-0.26.10.tgz#0bb9ab928984948c67aee0b9e64216bee007a9fc"
   integrity sha512-z6gAbru2E6SyGWm4ZTbiM9hPHZ5Tsl9kXGfRxW6YQXf9us7zybKoS7dKE1fQPsssv/OSvpPDKannJNncE+ATRA==
 
-react-native-image-picker@^0.28.0:
-  version "0.28.0"
-  resolved "https://registry.yarnpkg.com/react-native-image-picker/-/react-native-image-picker-0.28.0.tgz#e3f26df170ea932e9c0404624fbced2f59a300e3"
-  integrity sha512-lQfdOyC1mQ/pvfEaUGdoodO1A1clg9kf6YC1WdbWhA6XK+joBd9GQYf8SaCf6/7vM25U4ib+6ux4yvnrS1pOqQ==
+react-native-image-picker@^0.28.1:
+  version "0.28.1"
+  resolved "https://registry.yarnpkg.com/react-native-image-picker/-/react-native-image-picker-0.28.1.tgz#1127460522e0c9741fc62f3d040271d298fb6a6e"
+  integrity sha512-CW2dm+cjsdW2fjBW2WD/cSufNG0x0UpljwGHrjSzyB0TckoW+tjYv44UWtckCWxr1JtCg+QrYDO/MzlRyFcjwQ==
 
 react-native-image-resizer@^1.0.0:
   version "1.0.0"
@@ -5683,10 +5690,10 @@ react-native-vector-icons@^6.3.0:
     prop-types "^15.6.2"
     yargs "^8.0.2"
 
-react-native@0.58.4:
-  version "0.58.4"
-  resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.58.4.tgz#bb1392727712787ba84983104c4920c0f4082677"
-  integrity sha512-vJlku+vRgiip9i2/NvYHYvMnHPZftROOnHdbeFCkxNpb90oot+VrocbkXe7qhVKCBKZTQrRNb5P+m0Gtv59Zcg==
+react-native@^0.58.4:
+  version "0.58.6"
+  resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.58.6.tgz#a6d273cd2f51b0e3b141dad5f19622e0000497b3"
+  integrity sha512-m/7L0gYXS4yHjs+PKmyurh1LLr7/tpobAX8Iv7Dwu4XT1ZcZFeCATn420E9U3nC2XsT54AmRR2Fv7VGgf+M2vQ==
   dependencies:
     "@babel/runtime" "^7.0.0"
     absolute-path "^0.0.0"
@@ -6755,6 +6762,11 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
+
+u@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/u/-/u-0.1.0.tgz#f5cc15d0063241e2c95004990fc4dd989bf1fcb3"
+  integrity sha1-9cwV0AYyQeLJUASZD8TdmJvx/LM=
 
 ua-parser-js@^0.7.18:
   version "0.7.19"

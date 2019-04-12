@@ -38,7 +38,7 @@ export default class HomeScreen extends Component {
           navigation.navigate("Details");
         }}
         title="Add"
-        color="#fff"
+        color="#000"
       />
     )
   });
